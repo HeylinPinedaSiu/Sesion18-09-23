@@ -5,9 +5,11 @@ public class App {
         int arreglo1[] = new int[5]; //0,1,2,3,4
         
         //arreglo1 = {0,0,0,0,0}
+    
         int [] arreglo2 = new int[10]; //0,1,2,3,4,5,6,7,8,9
         
         //arreglo2 = {0,0,0,0,0,0,0,0,0,0}
+        
         //Declaracion e inicializacion de arreglos
         int arreglo3[] = {1,2,3,4,5,6,7}; //0,1,2,3,4,5,6
         int [] arreglo4 = new int[] {10,20,30,40,50}; //0,1,2,3,4
